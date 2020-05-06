@@ -78,6 +78,7 @@ body {
 }
 
 .user-image {
+  height: 30px;
   width: 30px;
   border-radius: 100%;
   padding: 0px 5px;
